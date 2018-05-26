@@ -1,0 +1,33 @@
+{
+  "name": "demos-mvpconf2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo-2": "node ./demo-2/pizzariaItaliana.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glaucia86/demos-mvp-conf.git"
+  },
+  "keywords": [
+    "botbuilder",
+    "bots",
+    "chatbots",
+    "botbuilder-samples",
+    "bot-framework",
+    "node.js"
+  ],
+  "author": "Glaucia Lemos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/demos-mvp-conf/issues"
+  },
+  "homepage": "https://github.com/glaucia86/demos-mvp-conf/blob/master/README.md",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "dotenv-extended": "^2.0.1",
+    "moment": "^2.20.1",
+    "restify": "^6.3.4"
+  }
+}
