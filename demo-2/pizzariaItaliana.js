@@ -1,7 +1,7 @@
 /**
  *
  * Arquivo: pizzariaItaliana.js
- * Data: 26/02/2018
+ * Data: 26/05/2018
  * Descrição: Desenvolvimento de um Bot de pedido de pizza integrado com o LUIS.
  * Author: Glaucia Lemos
  *
